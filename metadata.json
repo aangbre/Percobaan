@@ -1,0 +1,6 @@
+{
+  "name": "EduTK Ceria",
+  "description": "Aplikasi edukasi logika hewan TK offline-first dengan Dasbor Guru dan Siswa berbasis QR Code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
